@@ -1,5 +1,12 @@
-function App() {
-  return <div className='App'></div>
+import React from 'react'
+import Products from './components/Products/Products'
+
+const App = () => {
+  return (
+    <div className='App'>
+      <Products />
+    </div>
+  )
 }
 
 export default App
