@@ -16,3 +16,5 @@ This project uses:
 ### Created By:
 
 Chey Rose Flammer
+
+**This project is used for Demo purposes only!**
